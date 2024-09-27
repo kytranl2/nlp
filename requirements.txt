@@ -1,0 +1,9 @@
+git+https://github.com/huggingface/transformers.git
+deepspeed
+accelerate
+sentencepiece
+langchain
+torch
+bitsandbytes
+langchain-community
+langchain_huggingface
